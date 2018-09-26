@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Toronto",
+  "dependencies": {
+  },
+  "dataStudio": {
+    "name": "Data from Mangools",
+    "logoUrl": "https://askgem.com/themes/custom/gem_bootstrap/img/gem-logo.png",
+    "company": "HomeX",
+    "companyUrl": "https://homex.com",
+    "addonUrl": "https://github.com/homex/mangools-connector/",
+    "supportUrl": "https://github.com/homex/mangools-connector/issues",
+    "description": "Get trafic statistics from mangools.",
+    "sources": ["mangools"]
+  }
+}
